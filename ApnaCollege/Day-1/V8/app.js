@@ -8,5 +8,5 @@ const app=setInterval(() => {
 // console.log(app);
 // setTimeout(app);
 setTimeout(() => {
-    clearInterval(id);
+    clearInterval(app);
 },10000)
